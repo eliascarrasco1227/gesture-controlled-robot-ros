@@ -9,7 +9,7 @@
 - Integra un sistema de seguridad con evitación de obstáculos usando LIDAR
 - Arquitectura modular basada en ROS para procesamiento en tiempo real
 
-![System Overview](picture.png)
+![Robot]([picture.png](https://github.com/eliascarrasco1227/gesture-controlled-robot-ros/blob/main/robotica_inteligente/images_and_video/robot.png))
 
 ## Características Principales
 - **Control Intuitivo**:
